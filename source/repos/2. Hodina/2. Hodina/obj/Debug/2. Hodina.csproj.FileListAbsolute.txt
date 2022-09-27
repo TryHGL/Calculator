@@ -1,0 +1,7 @@
+C:\Users\cusnir.ni.2022\source\repos\2. Hodina\2. Hodina\bin\Debug\_2.Hodina.exe.config
+C:\Users\cusnir.ni.2022\source\repos\2. Hodina\2. Hodina\bin\Debug\_2.Hodina.exe
+C:\Users\cusnir.ni.2022\source\repos\2. Hodina\2. Hodina\bin\Debug\_2.Hodina.pdb
+C:\Users\cusnir.ni.2022\source\repos\2. Hodina\2. Hodina\obj\Debug\2. Hodina.csprojAssemblyReference.cache
+C:\Users\cusnir.ni.2022\source\repos\2. Hodina\2. Hodina\obj\Debug\2. Hodina.csproj.CoreCompileInputs.cache
+C:\Users\cusnir.ni.2022\source\repos\2. Hodina\2. Hodina\obj\Debug\_2.Hodina.exe
+C:\Users\cusnir.ni.2022\source\repos\2. Hodina\2. Hodina\obj\Debug\_2.Hodina.pdb
